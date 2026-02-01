@@ -1,4 +1,4 @@
-How to run the Auto/Taxi Stand Management Project Using PHP and MySQL
+How to run the HMS Project Using PHP and MySQL
 
 . Download the zip file
 2. Extract the file and copy hospital folder
@@ -11,4 +11,5 @@ Login Details
 Login Details for admin : admin/Test@12345
 Login Details for Patient: johndoe12@test.com/Test@123
 Login Details for Doctor: anujk123@test.com/Test@123
+
 
