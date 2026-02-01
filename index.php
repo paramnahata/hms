@@ -423,7 +423,7 @@ if (isset($_POST['submit'])) {
     </footer>
     <div class="copy">
         <div class="container">
-            Hospital Management System <p style="text-align: center;">© 2026 HMS All rights reserved. Designed & developed by Param Nahata</p>
+            Hospital Management System <p style="text-align: center;">© 6 HMS All rights reserved. Designed & developed by Param Nahata</p>
 
 
         </div>
